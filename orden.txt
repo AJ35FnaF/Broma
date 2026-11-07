@@ -1,1 +1,1 @@
-NULL
+[console]::beep(800, 1000)
