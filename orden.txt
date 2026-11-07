@@ -1,1 +1,1 @@
-[console]::beep(2000, 1000)
+[console]::beep(1000, 1000)
